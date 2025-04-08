@@ -22,4 +22,4 @@ Bu proje GitHub üzerinden açık kaynak olarak paylaşılmaktadır:
 [https://github.com/dilara06/-MoodLog](https://github.com/dilara06/-MoodLog)
 
 ## Geliştirici
-Dilara KOşan (GitHub: [@dilara06](https://github.com/dilara06))
+Dilara Koşan (GitHub: [@dilara06](https://github.com/dilara06))
